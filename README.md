@@ -22,19 +22,9 @@ This project involves exploratory data analysis (EDA) on solar energy data. The 
   - Visualize relationships (scatter plots) between variables such as temperature and energy output.
   - Use box plots to identify outliers.
 
-### 4. Feature Engineering
-- Create new features if necessary (e.g., daily, monthly aggregates).
-- Transform existing features (e.g., log transformation for skewed data).
 
-### 5. Correlation Analysis
-- Compute correlation matrices to identify relationships between features.
-- Visualize correlations using heatmaps.
 
-### 6. Model Preparation (if applicable)
-- Split data into training and testing sets.
-- Choose appropriate models for prediction (if extending analysis to predictive modeling).
-
-### 7. Conclusion
+### 4. Conclusion
 - Summarize key findings from the EDA.
 - Discuss potential implications for solar energy production and recommendations for further analysis.
 
